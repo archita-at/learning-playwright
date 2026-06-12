@@ -1,0 +1,22 @@
+{
+  "name": "learning-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archita-at/learning-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archita-at/learning-playwright/issues"
+  },
+  "homepage": "https://github.com/archita-at/learning-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  }
+}
